@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Shazal Rajput
 Data Engineer | Building Scalable Data Pipelines with PySpark & Azure 
 
-Email Me 👉 ✉️ **rajputwebsite3@gmail.com** for collaboration, project inquiries, or Anything Else. 😊😊
+Email Me 👉 ✉️ **rajputwebsite3@gmail.com** for collaboration or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Building scalable ETL pipelines in Azure using PySpark & Databricks  
-- 🌱 **I’m currently learning:** Advanced PySpark optimization & Azure Synapse Analytics  
+- 🌱 **I’m currently learning:** PySpark optimization & Azure Synapse Analytics  
 - 👯 **I’m looking to collaborate on:** Open-source big data projects & cloud-based data solutions  
 - 🤔 **I’m looking for help with:** Real-time data streaming using Azure   
 - 💬 **Ask me about:** Data engineering, Azure Data Factory, Databricks, SQL, and big data best practices  
